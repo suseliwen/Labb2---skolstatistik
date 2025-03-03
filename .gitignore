@@ -1,0 +1,17 @@
+# Ignorera virtuella miljön
+venv/
+
+# Ignorera cache- och temporära filer
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorera Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorera OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# Ignorera miljövariabler eller känsliga filer
+.env
