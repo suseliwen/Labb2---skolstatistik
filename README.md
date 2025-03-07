@@ -21,15 +21,15 @@ Uppgiften går ut på att läsa in data från en Excel-fil, analysera betygsstat
 - [x] Rita  stapeldiagram på totala poängen för de olika huvudmännen och respektive ämne
 - [x] Placera alla diagram i en plott med subplottar
 - [x] Refaktorera koden
-- [ ] Snygga till diagram och  kolla över kommentarer
+- [x] Snygga till diagram och  kolla över kommentarer
 - [ ] Kontrollera storytelling
 - [ ] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
 
 ### LABB 2
 - [x] Rita ett linjediagram för andel elever som saknar godkänt betyg i ett eller fler ämnen för läsår 18-23. Ta med totalt, flickor och pojkar i samma graf
 - [x] Rita ett linjediagram för meritvärde för 16 ämnen för totalt, flickor och pojkar för läsår 18-23
-- [ ] Gå igenom koden och se om något kan refaktoreras
-- [ ] Snygga till diagram och  kolla över kommentarer
+- [x] Gå igenom koden och se om något kan refaktoreras
+- [x] Snygga till diagram och  kolla över kommentarer
 - [ ] Kontrollera storytelling
 - [ ] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
 
