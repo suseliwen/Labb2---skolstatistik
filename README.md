@@ -3,6 +3,7 @@
 Öppna html-visaliseringar med följande länk:
 [https://github.com/[suseliwen]/[Labb2---skolstatistik]/blob/main/visualiseringar/betyg_saknas_graf.html](https://suseliwen.github.io/Labb2---skolstatistik/)
 
+
 ### Beskrivning
 
 Projektet är en Python-baserad dataanalys av elevstatistik. 
@@ -17,7 +18,7 @@ Uppgiften går ut på att läsa in data från en Excel-fil, analysera betygsstat
 
 ### 📝 ToDo-lista
 
-### LABB 1
+### Uppgift 1
 - [x] Läs in filen riket2023_åk9_np.xlsx och sheets för de olika ämnena (engelska, matematik, svenska,
  svenska som andraspråk)
 - [x] Ändra kolumnnamn
@@ -26,15 +27,15 @@ Uppgiften går ut på att läsa in data från en Excel-fil, analysera betygsstat
 - [x] Refaktorera koden
 - [x] Snygga till diagram och  kolla över kommentarer
 - [ ] Kontrollera storytelling
-- [ ] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
+- [x] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
 
-### LABB 2
+### Uppgift 2
 - [x] Rita ett linjediagram för andel elever som saknar godkänt betyg i ett eller fler ämnen för läsår 18-23. Ta med totalt, flickor och pojkar i samma graf
 - [x] Rita ett linjediagram för meritvärde för 16 ämnen för totalt, flickor och pojkar för läsår 18-23
 - [x] Gå igenom koden och se om något kan refaktoreras
 - [x] Snygga till diagram och  kolla över kommentarer
 - [ ] Kontrollera storytelling
-- [ ] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
+- [x] Exportera matplotlib grafer i png-format och plotly-grafer som html-filer till mappen Visualiseringar
 
 ### BONUSUPPGIFT
 - [ ] Undersök  andra variabler, och hur de påverkar meritvärde och andel med minst ett saknat betyg. Data
