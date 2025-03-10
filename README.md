@@ -1,7 +1,7 @@
 ## LABB 2 - AI 1 Python
 
-Öppna html-visaliseringar med följande:
-https://github.com/[suseliwen]/[Labb2---skolstatistik]/blob/main/visualiseringar/betyg_saknas_graf.html
+Öppna html-visaliseringar med följande länk:
+[https://github.com/[suseliwen]/[Labb2---skolstatistik]/blob/main/visualiseringar/betyg_saknas_graf.html](https://suseliwen.github.io/Labb2---skolstatistik/)
 
 ### Beskrivning
 
