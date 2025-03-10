@@ -1,5 +1,8 @@
 ## LABB 2 - AI 1 Python
 
+Öppna html-visaliseringar med följande:
+https://github.com/[suseliwen]/[Labb2---skolstatistik]/blob/main/visualiseringar/betyg_saknas_graf.html
+
 ### Beskrivning
 
 Projektet är en Python-baserad dataanalys av elevstatistik. 
